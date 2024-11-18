@@ -50,7 +50,7 @@ body {
 	position: relative;
 }
 
-.picture.left::before, .picture.right::before {
+.picture.left::before{
 	content: ' ';
 	background-color: #A06B4A;
 	width: 374px;
@@ -200,7 +200,7 @@ body {
 .picture.right::before {
 	content: ' ';
 	background-color: #BEB45A;
-	width: 100%;
+	width: 374px;
 	height: 329px;
 	position: absolute;
 	bottom: 0;
