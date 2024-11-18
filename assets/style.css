@@ -200,7 +200,7 @@ body {
 .picture.right::before {
 	content: ' ';
 	background-color: #BEB45A;
-	width: 1000px;
+	width: 100%;
 	height: 329px;
 	position: absolute;
 	bottom: 0;
